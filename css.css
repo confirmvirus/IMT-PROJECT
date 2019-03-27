@@ -1,0 +1,71 @@
+body{
+	background-color: #0o0f0f;
+}
+header{
+	text-align: center;
+	margin-top: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: pink;
+	border-radius: 0px 0px 20px 20px;
+}
+.div_1{
+	background-color: #000f0f;
+	border-radius: 0px 0px 20px 20px;
+	height: auto;
+	padding-top: 2px;
+	color: black;
+	border: ridge;
+    display: flex;
+}
+.oriflame{
+	background-color: pink;
+	width: auto;
+	height: auto;
+	border-radius: 0px 0px 20px 20px;
+	text-align: center;
+	float: center;
+}
+.oriflame1{
+	
+	margin-left: 50px;
+	margin-bottom: 5px;
+	width: 400px;
+	height: auto;
+	border-radius: 1000px;
+	text-align: center;
+	color: white;
+}
+
+.nav_right{
+	margin-top: 5px;
+	float: right;
+	border-radius: 590px;
+	border: ridge;
+
+}
+.nav_left{
+	margin-top: 5px;
+	float: left;
+	border-radius: 590px;
+	border: ridge;
+}h1{
+	text-align: center;
+	background-color: transparent;
+	padding-top:5px;
+}
+footer{
+	text-align: center;
+	text-decoration-style: 0 4 6 0;
+}
+
+
+.body_2{
+	background-color: magenta;
+	border-radius: 5px;
+}
+.form{
+background-color: red;
+width: 300px;
+	margin-left: 50px
+}
